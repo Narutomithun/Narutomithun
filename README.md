@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <h1 align="center">Hey there, I'm <a href="https://github.com/Narutomithun" target="_blank">Mithun M Nair</a> 👋</h1>
 
-<h3 align="center">⚙️ Backend Developer | ☕ Java & Python Enthusiast | 💡 Systems Thinker</h3>
+<h3 align="center">⚙️ Backend Developer | ☕ Java & Python Enthusiast | 💡 Logic Solver</h3>
 
 ---
 
@@ -12,14 +12,14 @@
 
 ---
 
-### 🧠 About Me
-- 🏗️ I’m a **Backend-focused Software Engineer** who loves designing efficient, scalable, and clean server-side systems  
-- 💼 Previously worked with **startups** as a **Web Development Intern**, where I learned to turn ideas into real products quickly  
+### 🧠 About Me  
+- 🏗️ A **Backend-focused Software Engineer** passionate about scalable, reliable systems  
+- 💼 Worked with **startups** as a **Web Development Intern**, turning quick ideas into functional products  
 - 🔭 Currently exploring **distributed systems**, **API design**, and **microservice architectures**  
-- 🌱 Learning **Java**, **Go**, and **Rust** to strengthen my backend fundamentals  
-- 💬 Ask me about **system design**, **RESTful APIs**, or **database optimization**  
-- 🎯 Long-term goal: To build impactful products at **product-based companies** that push backend performance boundaries  
-- 💡 Motto: *“Strong foundations build great systems.”*
+- 🌱 Learning **Java**, **Go**, and **Rust** to strengthen backend engineering fundamentals  
+- 💬 Ask me about **system design**, **RESTful APIs**, and **database optimization**  
+- 🎯 Interested in **product-based companies** that value backend performance and reliability  
+- 💡 Motto: *“Strong foundations build great systems.”*  
 
 ---
 
@@ -68,8 +68,8 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mithunmnair?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_mediu"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:mithunmanojnair7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
