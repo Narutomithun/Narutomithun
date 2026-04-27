@@ -60,7 +60,7 @@
 ---
 
 ### 🧩 Featured Projects
-🔗 [**Resistor-Value-Detector**](https://github.com/Narutomithun/Resistor-Value-Detector-) — A hardware project demonstrating automation logic  
+🔗 [**AURA**](https://github.com/Narutomithun/AURA_Rescue-Response-System.git) — A WildFire Detection and response System.  
 📦 [**Backend Experiments**](https://github.com/Narutomithun/Learn) — Collection of backend concepts and small server-side prototypes  
 ⚙️ [**Profile Config Repo**](https://github.com/Narutomithun/Narutomithun) — This README setup for profile personalization  
 
